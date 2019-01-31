@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      New Post
-author:     Ahmet Cecen
+title:      NPost do  Lucas
+author:     Lucas
 tags: 		post template
 subtitle:  	Some Short Description of Post
 category:  project1
@@ -10,6 +10,7 @@ category:  project1
 
 # Table of Contents
 
+Blablabla
 * TOC
 {:toc}
 
