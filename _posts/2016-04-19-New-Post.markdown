@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      New Post
-author:     Ahmet Cecen
+title:      Post do Lucas
+author:     Lucas
 tags: 		post template
 subtitle:  	Some Short Description of Post
 category:  project1
@@ -14,6 +14,8 @@ category:  project1
 {:toc}
 
 # Basic Functionality
+
+Blablabla 
 
 ## Headers
 
