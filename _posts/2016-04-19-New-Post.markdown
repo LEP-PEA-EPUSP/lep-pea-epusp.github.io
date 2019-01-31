@@ -4,7 +4,7 @@ title:      Post do Lucas
 author:     Lucas
 tags: 		post template
 subtitle:  	Some Short Description of Post
-category:  project1
+category:  
 ---
 <!-- Start Writing Below in Markdown -->
 
