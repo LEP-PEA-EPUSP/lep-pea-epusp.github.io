@@ -1,22 +1,93 @@
 # Members
 
-- name: Ahmet Cecen
-  role: Data Scientist / Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
-  url: http://ahmetcecen.github.io/
+- name: Lourenço Matakas Jr.
+  role: Coordination, Advisor
+  img: https://i1.rgstatic.net/ii/profile.image/279390425501706-1443623276708_Q128/Lourenco_Matakas_Junior.jpg
+  github: LEP-PEA-EPUSP
+  bio: Idealization, Administration, Technical Advisor
+  url: http://www.pea.usp.br/Lep
   visible: true
    
-- name: David Brough
-  role: Data Scientist / Materials Informatics
-  img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
-  github: davidbrough1
-  bio: David is a PhD student in the School of Computational Science and Engineering at Georgia Institute of Technology. David earned a Master’s degree in experimental condensed matter physics at Brigham Young University where he fabricated and characterized thin-films and carbon nanotubes used in nanostructured high capacity battery electrodes and in X-ray windows. As an undergraduate, David studied theoretical physics and researched the evolution of chaotic systems using neural networks at Westminster College. He is a trainee in the NSF IGERT FLAMEL program, and one of the lead developers on PyMKS materials informatics toolkit.
-  url: http://davidbrough.net 
+   
+- name: Lucas Koleff
+  role: Coordination, Advisor
+  img: https://avatars0.githubusercontent.com/u/11836715?s=460&v=4
+  github: lucask0
+  bio: Idealization, Hardware Development, Embedded Programming, User Interface Development, Testing
+  url: https://sites.google.com/site/lucasmkoleff/
   visible: true
-  
+   
+   
+- name: Luciana Marques
+  role: Development
+  img: https://avatars0.githubusercontent.com/u/10895920?s=460&v=4
+  github: LucianaMarques
+  bio: Hardware Development, Embedded Programming, User Interface Development
+  url: https://github.com/LucianaMarques
+  visible: true
+   
+      
+- name: Gustavo Soares 
+  role: Development
+  img: https://avatars3.githubusercontent.com/u/37849826?s=460&v=4
+  github: GustavoSoares13
+  bio: Hardware Development, Embedded Programming, Testing
+  url: https://github.com/GustavoSoares13
+  visible: true
+
+   
+- name: Victor Praxedes
+  role: Development
+  img: https://avatars2.githubusercontent.com/u/40328546?s=400&v=4
+  github: Victor-Praxedes
+  bio: Embedded Programming, Hardware Integration
+  url: https://github.com/Victor-Praxedes
+  visible: true
+   
+   
+
+
+- name: Francesco Sacco 
+  role: Development
+  img: https://avatars3.githubusercontent.com/u/18581159?s=460&v=4
+  github: francescosacco
+  bio: Hardware Development
+  url: https://github.com/francescosacco
+  visible: true
+   
+
+
+- name: Wilson Komatsu 
+  role: Advisor 
+  img: https://i1.rgstatic.net/ii/profile.image/583028113776641-1516016142926_Q128/Wilson_Komatsu.jpg
+  github: wilsonk
+  bio: Power Electronics
+  url: http://www.pea.usp.br/Lep
+  visible: true
+   
+
+
+- name: Henrique Hokama
+  role: Development
+  img: https://avatars3.githubusercontent.com/u/37812811?s=400&v=4
+  github: henrimit
+  bio: Hardware Development,  Testing
+  url: https://github.com/henrimit
+  visible: true
+   
+
+
+- name: Brando Moraes 
+  role: Development
+  img: https://.
+  github: francescosacco
+  bio: Hardware Development
+  url: https://.
+  visible: true
+   
+
+
+
 - name: Surya R. Kalidindi
   role: Materials Informatics
   img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400

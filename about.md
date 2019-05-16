@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
+description: "About LEP-PEA-EPUSP"
 header-img: "img/home-bg.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+This website is a platform for the open source projects developed at the Power Eletronics Laboratory at the Polytechnic School of the University of Sao Paulo.
 	
