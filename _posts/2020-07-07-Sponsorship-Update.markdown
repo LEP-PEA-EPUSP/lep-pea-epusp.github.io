@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Sponsorhip Update
+title:      Sponsorship Update
 author:     Lucas
 tags: 		post template
 subtitle:  	Amigos da Poli Sponsorship Received
