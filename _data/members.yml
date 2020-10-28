@@ -8,9 +8,19 @@
   url: http://www.pea.usp.br/Lep
   visible: true
    
+
+
+- name: Wilson Komatsu 
+  role: Advisor 
+  img: https://i1.rgstatic.net/ii/profile.image/583028113776641-1516016142926_Q128/Wilson_Komatsu.jpg
+  github: wilsonk
+  bio: Power Electronics
+  url: http://www.pea.usp.br/Lep
+  visible: true
    
+
 - name: Lucas Koleff
-  role: Coordination, Advisor
+  role: Development Advisor
   img: https://avatars0.githubusercontent.com/u/11836715?s=460&v=4
   github: lucask0
   bio: Idealization, Hardware Development, Embedded Programming, User Interface Development, Testing
@@ -18,6 +28,50 @@
   visible: true
    
    
+- name: Vinicius Machado
+  role: Development
+  img: 
+  github: 
+  bio: Hardware Development, Documentation
+  url: 
+  visible: true
+   
+   
+- name: Thiago Lima
+  role: Development
+  img: 
+  github: 
+  bio: Hardware Development, Documentation
+  url: 
+  visible: true
+   
+   
+- name: Joao de Carvalho
+  role: Development
+  img: 
+  github: 
+  bio: Hardware Development, Documentation
+  url: 
+  visible: true
+   
+ - name: Isabela Romero
+  role: Development
+  img: 
+  github: 
+  bio: Web Development, Divulgation
+  url: 
+  visible: true
+   
+ - name: Adrian Goncalves
+  role: Development
+  img: https://avatars1.githubusercontent.com/u/13292042?s=460&v=4
+  github: adriandlcg
+  bio: Hardware Development
+  url: https://github.com/adriandlcg
+  visible: true
+       
+
+
 - name: Luciana Marques
   role: Development
   img: https://avatars0.githubusercontent.com/u/10895920?s=460&v=4
@@ -53,16 +107,6 @@
   github: francescosacco
   bio: Hardware Development
   url: https://github.com/francescosacco
-  visible: true
-   
-
-
-- name: Wilson Komatsu 
-  role: Advisor 
-  img: https://i1.rgstatic.net/ii/profile.image/583028113776641-1516016142926_Q128/Wilson_Komatsu.jpg
-  github: wilsonk
-  bio: Power Electronics
-  url: http://www.pea.usp.br/Lep
   visible: true
    
 
