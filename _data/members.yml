@@ -30,19 +30,19 @@
    
 - name: Vinicius Machado
   role: Development
-  img: 
-  github: 
+  img: https://avatars0.githubusercontent.com/u/73718832?s=460&v=4
+  github: ViniciusNegri
   bio: Hardware Development, Documentation
-  url: 
+  url: https://github.com/ViniciusNegri
   visible: true
    
    
 - name: Thiago Lima
   role: Development
-  img: 
-  github: 
+  img: https://avatars0.githubusercontent.com/u/61635059?s=460&v=4
+  github: ThiagoMRL
   bio: Hardware Development, Documentation
-  url: 
+  url: https://github.com/ThiagoMRL
   visible: true
    
    
@@ -56,10 +56,10 @@
    
 - name: Isabela Romero
   role: Development
-  img: 
-  github: 
+  img: https://avatars2.githubusercontent.com/u/70271188?s=460&v=4
+  github: isabelaromero
   bio: Web Development, Divulgation
-  url: 
+  url: https://github.com/isabelaromero
   visible: true
    
 - name: Adrian Goncalves
